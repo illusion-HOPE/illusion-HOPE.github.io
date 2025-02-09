@@ -16,6 +16,7 @@ Essays and Opinions
 
  Recording life
  ---
+ 
  - About changing my major
  - About peer preesure
  - About self-doubt and inconfidence
