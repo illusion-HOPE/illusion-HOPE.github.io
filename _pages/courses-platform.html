@@ -3,7 +3,6 @@ layout: archive
 permalink: /courses-platform/
 title: "Courses Platform"
 author_profile: true
-
 ---
 {% include base_path %}
 
@@ -12,7 +11,7 @@ author_profile: true
 
 {% for post in site.coursesplatform %}
 
-{% capture year %}{{ post.year }}{% endcapture %}
+  {% capture year %}{{ post.year }}{% endcapture %}
   {% capture semester %}{{ post.semester }}{% endcapture %}
   
   {% if year != last_year %}
@@ -26,13 +25,28 @@ author_profile: true
   {% endif %}
 
   <div class="course-item">
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+    <h4><a href="javascript:void(0);" class="course-title">{{ post.title }}</a></h4>
     <p class="course-description">{{ post.excerpt }}</p>
     <div class="course-details" style="display:none;">
-      <p>{{ post.content }}</p>  <!-- 这里显示课程的具体内容 -->
+      <p>{{ post.content }}</p>  <!-- 课程的具体内容 -->
     </div>
   </div>
-
 {% include archive-single.html %}
-
 {% endfor %}
+
+<script>
+  // JavaScript 用于点击标题展开/隐藏课程详情
+  document.querySelectorAll('.course-title').forEach(function(title) {
+    title.addEventListener('click', function() {
+      var details = this.closest('.course-item').querySelector('.course-details');
+      if (details.style.display === 'none' || details.style.display === '') {
+        details.style.display = 'block';
+      } else {
+        details.style.display = 'none';
+      }
+    });
+  });
+</script>
+
+
+
