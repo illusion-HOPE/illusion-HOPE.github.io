@@ -40,7 +40,7 @@ When I made it, I had once naively believed that there was nothing left for me t
 
 In the fall of 2024, I participated in a mathematical modeling competition for the first time. I won the first prize in my province, but I felt like it was still not good enough. **The inner self-doubt and lack of confidence** grew increasingly intense. The sense of pressure to force myself to become better often left me struggling to breathe. The final grades in this autumn semester are not satisfying, even though I was already very tired. And, I entered a turning point in my university life.
 
-The future is still unknown, the directions, dreaming schools, and what I will be. There are still so many things I wish to pursue.Like will I be capable of teaching a session on **Commutative Algebra** in the student seminar? I haven’t even opened the textbook yet... 
+The future is still unknown, the directions, dreaming schools, and what I will be. There are still so many things I wish to pursue. Like will I be capable of teaching a session on **Commutative Algebra** in the student seminar? I haven’t even opened the textbook yet... 
 
 
 illusion
