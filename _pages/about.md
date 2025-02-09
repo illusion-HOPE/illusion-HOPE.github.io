@@ -10,7 +10,7 @@ redirect_from:
 
 Hello!
 
-I am now a second-year undergraduate student majoring in Mathematics at the School of Mathematical Science, Xiamen University. After the upcoming specialization track, I will pursue my career in  **Mathematics and Applied Mathematics** .
+I am now a second-year undergraduate student majoring in Mathematics at the School of Mathematical Science, Xiamen University. After the upcoming specialization track, I will pursue my career in  **Mathematics and Applied Mathematics**.
 
 To be honest, I am not sure about my future direction. It could be the fascinating field of **algebra** that captures my heart, or perhaps I will be drawn toward interdisciplinary areas like **biostatistics, epidemiology and health statistics**. There's also the possibility that I might become a high school **teacher** or university mathematics **professior**, <font color="darkgreen">as I deeply enjoy the sense of fulfillment that comes with teaching in front of a classroom.</font>
 
