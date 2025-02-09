@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "A Math Learner"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "illusion"
+description              : &description "Be true to myself."
 url                      : https://illusion-HOPE.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "illusion-HOPE/illusion-HOPE.github.io"
@@ -225,9 +225,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  coursesplatform:
-    output: true
-    permalink: /courses-platform/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -285,17 +282,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  #_coursesplatform
-   - scope:
-      path: ""
-      type: coursesplatform
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
 
 
 # Sass/SCSS
