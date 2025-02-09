@@ -18,8 +18,8 @@ My dream is to join the **Advanced Algebra Teaching Group** here in my college. 
 The future holds many possibilities, and I am ready to face one of them whatever it is. I am always true to myself.
 
 
-A Website Exhibiting My Mind and Preference
-======
+## A Website Exhibiting My Mind and Preference
+
 
 This website organizes all my study materials and the articles I’ve shared on WeChat public accounts about campus experiences. 
 
@@ -30,10 +30,9 @@ Fortunately, I met one of my closest friends now, smy. How can I convince you th
 From scattered, online fragments of study guidance to a formal offline teaching session of problem-solving classes at the end of that semester, I tought him a lot and review nearly the whole textbook. We both enjoyed the teaching process deeply, and gradually became more and more familiar with each other.
 
 
-A Website Telling Tear and Pain
-======
+## A Website Telling Tear and Pain
 
-There were indeed many low points for me, during which I wrote countless essays, reflections, and thoughts.
+There were indeed many low points for me, during which I wrote countless reflections, and thoughts.
 
 Flying to the days when I was new here, I had no idea whether to change my major or not. I asked for the seniors and professors. Some encouraged me to stay true to my heart, while others thought I was being foolish. Finally. I changed and passed the exam. I had once naively believed that there was nothing left for me to worry about, and that I could fully dedicate myself to my studies. In fact, immersing myself fully in the study of Mathematical Analysis and Advanced Algebra truly indeed brought me happiness. Yet, I found myself grappling with the mounting tensions in the dormitory and the complexities of relationships. I longed to find someone on the same wavelength.
 
