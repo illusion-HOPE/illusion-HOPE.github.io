@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-Here are writings giving discriptions of my feeling about my mess life in Xiamen University. If you are interested in these, my weChat official account ***Light in Dark*** welcomes you to follow.
+Here are writings giving discriptions of my feeling about my mess life in Xiamen University. If you are interested in these, my WeChat official account ***Light in Dark*** welcomes you to follow.
 
 
 ## Essays and Opinions
