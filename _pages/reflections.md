@@ -1,7 +1,11 @@
-Reflections
+---
+permalink: /reflections/
+title: "Reflections"
+author_profile: true
 ---
 
-Writing my feeling about my mess life in Xiamen University
+
+**Writing my feeling about my mess life in Xiamen University**
 
 
 Essays and Opinions
