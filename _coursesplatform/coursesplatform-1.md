@@ -1,5 +1,5 @@
 ---
-title: Advanced Algebra I
+title: 'Advanced Algebra I'
 year: 2024
 semester: Fall
 permalink: /Advanced-Algebra-I/
