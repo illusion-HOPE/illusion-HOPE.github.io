@@ -6,31 +6,7 @@ author_profile: true
 
 ---
 {% include base_path %}
-
-{% capture last_year %}'None'{% endcapture %}
-{% capture last_semester %}'None'{% endcapture %}
 {% for post in site.Course Platform %}
-  {% if post.title contains "Course Platform-" %}
-    
-    {% capture year %}{{ post.year }}{% endcapture %}
-    {% capture semester %}{{ post.semester }}{% endcapture %}
-    
-    {% if year != last_year %}
-      <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-      {% capture last_year %}{{ year }}{% endcapture %}
-    {% endif %}
-
-    {% if semester != last_semester %}
-      <h3 id="{{ year }}-{{ semester | slugify }}" class="archive__semester">{{ semester }}</h3>
-      {% capture last_semester %}{{ semester }}{% endcapture %}
-    {% endif %}
-    
-    <div class="course-item">
-      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-      <p class="course-description">{{ post.excerpt }}</p>
-    </div>
-    
-  {% endif %}
 
 {% include archive-single.html %}
 {% endfor %}
