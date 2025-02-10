@@ -9,6 +9,7 @@ author_profile: true
 25 Spring
 ---
 - Advanced Algebra II
+- Calculus of Several Variables
 
 
 25 Winter
