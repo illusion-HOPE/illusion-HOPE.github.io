@@ -14,8 +14,8 @@ author_profile: true
 
 25 Winter
 ---
-- [Math Camp For Grade 3 in Chinese senior high school](https://github.com/illusion-HOPE/25-Winter-LWX-MathCamp)
-- [Math Camp For Grade 2 in Chinese senior high school](https://github.com/illusion-HOPE/25-Winter-LWZ-MathCamp)
+- [Math Camp For Grade 3 in Chinese Senior High School](https://github.com/illusion-HOPE/25-Winter-LWX-MathCamp)
+- [Math Camp For Grade 2 in Chinese Senior High School](https://github.com/illusion-HOPE/25-Winter-LWZ-MathCamp)
 
 
 24 Fall
