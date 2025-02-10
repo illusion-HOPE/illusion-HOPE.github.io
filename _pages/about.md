@@ -26,7 +26,7 @@ Date back to those days when I started my second year in Xiamen University, I no
 
 Fortunately, I met one of my closest friends now, smy. How can I convince you that we just started our friendship through a serendipitous encounter? We both share a similarly delicate and sensitive nature. 
 
-From online fragments of study guidance to **formal offline discussion sessions**, I tought him a lot and reviewed nearly the whole textbook. We both enjoyed the teaching process deeply, and gradually became more and more familiar with each other.
+From online fragments of study guidance to **formal offline discussion sessions**, I taught him a lot and reviewed nearly the whole textbook. We both enjoyed the teaching process deeply, and gradually became more and more familiar with each other.
 
 
 ## A Website Telling Tear and Pain
