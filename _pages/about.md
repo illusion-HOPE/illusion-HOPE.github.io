@@ -12,7 +12,7 @@ Hello!
 
 I am now a second-year undergraduate student majoring in Mathematics at the School of Mathematical Science, Xiamen University. After the upcoming specialization track, I will pursue my career in  **Mathematics and Applied Mathematics**.
 
-To be honest, I am not sure about my future direction. It could be the fascinating field of **algebra** that captures my heart, or perhaps I will be drawn toward interdisciplinary areas like **biostatistics, epidemiology and health statistics**. There's also the possibility that I might become a high school **teacher** or university mathematics **professor**, <font color="darkgreen">as I deeply enjoy the sense of fulfillment that comes with teaching in front of a classroom.</font>
+To be honest, I am not sure about my future direction. It could be the fascinating field of **algebra** that captures my heart, or perhaps I will be drawn toward interdisciplinary areas like **biostatistics, epidemiology and health statistics**. There's also the possibility that I might become a high school **teacher** or a university **professor**, <font color="darkgreen">as I deeply enjoy the sense of fulfillment that comes with teaching in front of a classroom.</font>
 
 My dream is to join the **Advanced Algebra Teaching Group** here in my college. I admire the dedication of the faculty here, and their teaching is truly inspiring. It was this very course that sparked my passion for algebra. 
 
