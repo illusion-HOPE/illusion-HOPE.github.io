@@ -22,7 +22,7 @@ The future holds many possibilities, and I am ready to face one of them whatever
 ## A Website Exhibiting My Mind and Preference
 
 
-Date back to those days when I started my second year in Xiamen University, I noticed that professional courses learnt was quietly slipping away from my mind. I’m a bit worried about that, for the coming the summer camp in the summer of 2026. These forgotten knowledge would become a **BURDEN** for me to review. I consciously sought a way to address this.
+Date back to those days when I started my second year in Xiamen University, I noticed that professional courses learnt was quietly slipping away from my mind. I’m a bit worried about that, for the coming the summer camp in 2026. These forgotten knowledge would become a **BURDEN** for me to review. I consciously sought a way to address this.
 
 Fortunately, I met one of my closest friends now, smy. How can I convince you that we just started our friendship through a serendipitous encounter? We both share a similarly delicate and sensitive nature. 
 
