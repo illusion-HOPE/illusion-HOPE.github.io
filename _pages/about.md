@@ -12,7 +12,7 @@ Hello!
 
 I am now a second-year undergraduate student majoring in Mathematics at the School of Mathematical Science, Xiamen University. After the upcoming specialization track, I will pursue my career in  **Mathematics and Applied Mathematics**.
 
-To be honest, I am not sure about my future direction. It could be the fascinating field of **algebra** that captures my heart, or perhaps I will be drawn toward interdisciplinary areas like **biostatistics, epidemiology and health statistics**. There's also the possibility that I might become a high school **teacher** or university mathematics **professior**, <font color="darkgreen">as I deeply enjoy the sense of fulfillment that comes with teaching in front of a classroom.</font>
+To be honest, I am not sure about my future direction. It could be the fascinating field of **algebra** that captures my heart, or perhaps I will be drawn toward interdisciplinary areas like **biostatistics, epidemiology and health statistics**. There's also the possibility that I might become a high school **teacher** or university mathematics **professor**, <font color="darkgreen">as I deeply enjoy the sense of fulfillment that comes with teaching in front of a classroom.</font>
 
 My dream is to join the **Advanced Algebra Teaching Group** here in my college. I admire the dedication of the faculty here, and their teaching is truly inspiring. It was this very course that sparked my passion for algebra. 
 
@@ -26,7 +26,7 @@ Date back to those days when I started my second year in Xiamen University, I no
 
 Fortunately, I met one of my closest friends now, smy. How can I convince you that we just started our friendship through a serendipitous encounter? We both share a similarly delicate and sensitive nature. 
 
-From online fragments of study guidance to **a formal offline classes of discussion sessions**, I tought him a lot and reviewed nearly the whole textbook. We both enjoyed the teaching process deeply, and gradually became more and more familiar with each other.
+From online fragments of study guidance to **formal offline discussion sessions**, I tought him a lot and reviewed nearly the whole textbook. We both enjoyed the teaching process deeply, and gradually became more and more familiar with each other.
 
 
 ## A Website Telling Tear and Pain
@@ -42,7 +42,3 @@ In the fall of 2024, I participated in a mathematical modeling competition for t
 
 The future is still unknown, the directions, dreaming schools, and what I will be. There are still so many things I wish to pursue. Like will I be capable of teaching a session on **Commutative Algebra** in the student seminar? I haven’t even opened the textbook yet... 
 
-
-illusion
-
-2025.2.8
