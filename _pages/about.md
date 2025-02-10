@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "An idealist in pursuit within the realm of mathematics"
+title: "An Idealist in Pursuit Within The Realm of Mathematics"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 <br>
 
-Hello!
+Hello! 
 
 I am now a second-year undergraduate student majoring in Mathematics at the School of Mathematical Science, Xiamen University. After the upcoming specialization track, I will pursue my career in  **Mathematics and Applied Mathematics**.
 
