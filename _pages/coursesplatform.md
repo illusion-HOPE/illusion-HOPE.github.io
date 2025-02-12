@@ -8,8 +8,8 @@ author_profile: true
 
 25 Spring
 ---
-- Advanced Algebra II
-- Calculus of Several Variables
+- [Advanced Algebra II](https://illusion-hope.github.io/25-Spring-SMY-Discussion-Session/)
+- [Calculus of Several Variables](https://illusion-hope.github.io/25-Spring-ZQC-Calculus/)
 
 
 25 Winter
