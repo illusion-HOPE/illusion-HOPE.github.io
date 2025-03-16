@@ -24,10 +24,6 @@ The future holds many possibilities, and I am ready to face one of them whatever
 
 Date back to those days when I started my second year in Xiamen University, I noticed that professional courses learnt was quietly slipping away from my mind. I’m a bit worried about that, for the coming the summer camp in 2026. These forgotten knowledge would become a **BURDEN** for me to review. I consciously sought a way to address this.
 
-Fortunately, I met one of my closest friends now, smy. How can I convince you that we just started our friendship through a serendipitous encounter? We both share a similarly delicate and sensitive nature. 
-
-From online fragments of study guidance to **formal offline discussion sessions**, I taught him a lot and reviewed nearly the whole textbook. We both enjoyed the teaching process deeply, and gradually became more and more familiar with each other.
-
 
 ## A Website Telling Tear and Pain
 
